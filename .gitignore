@@ -1,0 +1,7 @@
+/local_review/
+/.venv/
+/train_1.zip
+/train_1_extracted/
+/.ipynb_checkpoints/
+__pycache__/
+~$*
